@@ -15,7 +15,7 @@ An end-to-end churn intelligence project that goes past "who will churn" to answ
 
 ## Why I built this
 
-Most churn projects stop at a classifier and an accuracy score. That never sat right with me, because knowing someone is likely to churn does not tell you whether a retention campaign will actually change their behavior, or whether saving them is worth the cost. PRISM is my attempt to model the full decision the way a real subscription business would, from risk to persuadability to dollars.
+PRISM is my attempt to model the full decision the way a real subscription business would, from risk to persuadability to dollars.
 
 It answers three questions in order:
 
